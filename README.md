@@ -1,4 +1,3 @@
-![logo](./githubbanner.png)
 <h1 align="center">Hi 👋, I'm Rohan Tripathi</h1>
 <h3 align="center">A Passionate Computer Science Graduate Student</h3>
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952waemihtj4xxms6k91rrtqkfohsmvhbpulaph57zl&ep=v1_gifs_search&rid=giphy.gif&ct=g">
