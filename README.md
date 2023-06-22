@@ -8,7 +8,7 @@
 <a href="https://linkedin.com/in/rohan-tripathi-9b6752215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan-tripathi-9b6752215" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14054590" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14054590" height="30" width="40" /></a>
 <a href="https://kaggle.com/rohantripathi2k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rohantripathi2k" height="30" width="40" /></a>
-<a href="https://instagram.com/rohantripathi2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohantripathi2000" height="30" width="40" /></a>
+<a href="https://instagram.com/rohantripathi_2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohantripathi_2000" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
